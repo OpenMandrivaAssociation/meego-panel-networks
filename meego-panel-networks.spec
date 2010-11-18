@@ -9,6 +9,8 @@ Source0: http://repo.meego.com/MeeGo/builds/1.0.90/1.0.90.0.20100831.1/core/repo
 Patch0: 0001-list-Fix-fallback-information-text-MBC-7544-MBC-5632.patch
 Requires: mobile-broadband-provider-info
 Requires: iso-codes
+Requires: connman
+Requires: gnome-bluetooth
 BuildRequires: libgtk+2-devel
 BuildRequires: libdbus-glib-devel
 BuildRequires: libGConf2-devel
