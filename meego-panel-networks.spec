@@ -4,7 +4,7 @@ Version: 1.2.15
 Release: %mkrel 1
 Group: Applications/Internet
 License: GPL 2
-URL: http://www.meego.com
+URL: https://www.meego.com
 Source0: http://repo.meego.com/MeeGo/builds/1.0.90/1.0.90.0.20100831.1/core/repos/source/%{name}-%{version}.tar.gz
 Patch0: 0001-list-Fix-fallback-information-text-MBC-7544-MBC-5632.patch
 Requires: mobile-broadband-provider-info
